@@ -9,7 +9,6 @@ System that simulates and plots a robotic manipulator in the Cartesian plane usi
 ## Conteúdos / Contents
 - Código fonte
 <br />
-
 - Source Code
   
 ## Autor / Author
